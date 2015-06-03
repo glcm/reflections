@@ -41,7 +41,10 @@ Why do we represent it in the diagram the way we do?
 The result is the merger of the commits of the two branches.
 We represent it that way because it's a merger.
 
+-------------------------------------------------------------------------------
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
-
+Automatic means less workload but might bring bugs or redundant code.
+Manual means less chance of bugs or redundant code but more work.
 

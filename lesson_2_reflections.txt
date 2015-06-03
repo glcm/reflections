@@ -13,3 +13,9 @@ The working directory is where you "work", the staging area where you put the fi
 to commit and the repository is where you keep all the versions of the "work".
 You can make several changes in the working directory and use the staging area to do
 multiple commits, one after another.
+
+-------------------------------------------------------------------------------
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By only adding the relevant files to the staging area before each commit.

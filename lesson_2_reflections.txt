@@ -32,3 +32,16 @@ When testing new features or refactoring code branches would be helpful.
 How do the diagrams help you visualize the branch structure?
 
 Diagrams helps because it gives us a visual aid in seen the tree in full.
+
+-------------------------------------------------------------------------------
+
+What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+
+The result is the merger of the commits of the two branches.
+We represent it that way because it's a merger.
+
+
+
+
+

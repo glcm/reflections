@@ -10,3 +10,13 @@ automatically stay up-to-date with your remote repository?
 
 For more control, because other people might be making changes that you don't want to get yet?
 Although for that they should be working in another branch...
+
+-------------------------------------------------------------------------------
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+Fork creates a copy of a repository in GitHub with a parent-child relationship, i would use it to make my own
+changes to a repository in Github
+Clone creates a copy of a repository, i would use it to get a copy of a repository from GitHub
+Branches creates a new "version" of a project in a repository, i would use it when making changes in the project

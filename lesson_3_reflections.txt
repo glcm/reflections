@@ -20,3 +20,9 @@ Fork creates a copy of a repository in GitHub with a parent-child relationship, 
 changes to a repository in Github
 Clone creates a copy of a repository, i would use it to get a copy of a repository from GitHub
 Branches creates a new "version" of a project in a repository, i would use it when making changes in the project
+
+-------------------------------------------------------------------------------
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It makes possible to compare the current local status of the project and the remote even when there's no internet
